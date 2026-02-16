@@ -1,5 +1,10 @@
 # FPVtune — Automatic Betaflight PID Tuning from Blackbox Logs
 
+[![Website](https://img.shields.io/badge/Website-fpvtune.com-blue?style=flat-square)](https://fpvtune.com)
+[![Betaflight](https://img.shields.io/badge/Betaflight-4.3%20%7C%204.4%20%7C%204.5+-orange?style=flat-square)](https://betaflight.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![INAV](https://img.shields.io/badge/INAV-Experimental-yellow?style=flat-square)](https://github.com/iNavFlight/inav)
+
 **Upload your blackbox log. Get optimized PIDs. Fly better.**
 
 🔗 **[fpvtune.com](https://fpvtune.com)** — Neural network-powered Betaflight PID tuning in under 30 seconds.
