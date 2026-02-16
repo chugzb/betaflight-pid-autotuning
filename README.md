@@ -9,6 +9,8 @@
 
 🔗 **[fpvtune.com](https://fpvtune.com)** — Neural network-powered Betaflight PID tuning in under 30 seconds.
 
+![FPVtune — Automatic Betaflight PID Tuning](screenshots/hero.png)
+
 ---
 
 ## The Problem
@@ -61,6 +63,8 @@ save
 ```
 
 ## What It Analyzes
+
+![FPVtune Advanced Analysis — Gyro Noise Spectrum and CLI Export](screenshots/advanced-features.png)
 
 FPVtune performs deep analysis on your blackbox data across multiple dimensions:
 
@@ -121,6 +125,8 @@ Betaflight uses multiple filter stages to clean up gyro noise before it reaches 
 Over-filtering adds delay and makes the quad feel sluggish. Under-filtering passes noise to the motors, causing heat and vibrations. FPVtune finds the optimal balance for your specific noise profile.
 
 ## Supported Configurations
+
+![FPVtune supports every FPV drone type](screenshots/drone-types.png)
 
 ### Flight Controllers & Firmware
 
@@ -214,6 +220,8 @@ Betaflight defaults are a compromise — they work "okay" on most quads but are 
 - ✅ Longer flight times from more efficient motor operation
 
 ## vs Other Tools
+
+![Traditional PID Tuning vs FPVtune AI Tuning](screenshots/comparison.png)
 
 | Feature | FPVtune | PIDtoolbox | Blackbox Explorer |
 |---------|---------|------------|-------------------|
